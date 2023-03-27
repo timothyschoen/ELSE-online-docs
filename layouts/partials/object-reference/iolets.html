@@ -1,0 +1,8 @@
+{{ range $name, $info := . }}
+<li>{{$name}}</li>
+<ul>
+  {{ range $info }}
+  <li><mark>{{.type}}</mark> - {{.description}}</li>
+  {{ end }}
+</ul>
+{{ end }}

@@ -1,0 +1,31 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+{{ $pages := .Pages }}
+<div id="main">
+  <div id="hero">
+    <h1>{{.Title}}</h1>
+  </div>
+  {{ with .Content }}
+  {{ . }}
+  {{ end }}
+  <div id="components">
+    <div class="row gutters">
+      {{ range $cat := .Page.Params.pdcategories}}
+      <h3 id="{{$cat | anchorize}}">{{$cat}}<a href="#{{$cat | anchorize}}" 
+        class="hanchor" > &#128279</a></h3>
+      {{ range where $pages "Params.pdcategory" $cat }}
+      <div class="col col-4 item">
+        <p style="margin: 1px"><a href="{{ .Permalink }}">[{{ .Title }}]</a>
+        {{ with .Params.description }} - {{ . }} {{ end }}</p>
+      </div>
+      {{else}}
+      <p class="hint">No documented objects in this category yet.</p>
+      {{end}}
+      {{end}}
+
+    </div>
+  </div>
+</div>
+{{ end }}
+{{ define "footer"}} {{ partial "footer" .}} {{end}}
