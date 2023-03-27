@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Pure Data - [bicoeff2] </title>
+    <meta http-equiv="Content-Type" content="text/html">
+    <link rel="stylesheet" type="text/css" href="../../css/pd-v0.1.css" media="screen">
+    <link rel="icon" type="image/png" href="../../favicon.ico">
+  </head>
+  <body>
+    <div id=corpus>
+      <header> <a href="../../">home</a> | <a href="../">up </a>  <span style="float:right;"> <button class="btn-toggle-theme">&#9680;</button> </span> <span style="float:right;"> <form id="search"
+    action='../../search/' method="get">
+    <label hidden for="search-input">Search site</label>
+    <input type="text" id="search-input" name="query"
+    placeholder="Type here to search">
+    
+</form>
+ </span>
+<hr style="margin: 1px 0px;">
+<p style="margin: 0px;"><small><sub>objects/bicoeff2.md
+</sub></small></p> </header>
+      <main>
+<h3>[bicoeff2]</h3>
+<p style="font-size: 105%"></p>
+  
+
+
+
+
+
+
+  
+
+<div class="object-reference">
+  <hr>
+  <div id="inlets"  class="reference-iolets"><h4>INLETs </h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>float</mark> - sets cutoff/center frequency</li>
+  
+  <li><mark>bang</mark> - generates coefficients</li>
+  
+  <li><mark>list &lt;f, f, f&gt;</mark> - sets frequency, Q/Slope and gain, and then outputs coefficients</li>
+  
+  <li><mark>anything</mark> - sets filter type &lt;allpass, lowpass, highpass, bandpass, resonant, bandstop, eq, lowshelf, highshelf, off&gt;. It takes 3 more optional arguments that set frequency, Q/Slope and gain</li>
+  
+</ul>
+
+<li>2nd</li>
+<ul>
+  
+  <li><mark>float</mark> - sets &#34;Q&#34; or &#34;Slope&#34; and outputs coefficients</li>
+  
+</ul>
+
+<li>3rd</li>
+<ul>
+  
+  <li><mark>float</mark> - sets gain in dB</li>
+  
+</ul>
+
+</ul></div>
+  <div id="outlets" class="reference-iolets"><h4>OUTLETs</h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>list</mark> - 5 coefficients for the vanilla [biquad~] object</li>
+  
+</ul>
+
+</ul></div>
+  
+
+  
+  <div id="arguments"  class="reference-arguments">
+  <h4>ARGUMENTs</h4>
+  <ol>
+  
+  <li>
+  <mark>symbol</mark> - (optional) sets type &lt;highpass/etc&gt;, (default=&#39;off&#39;)
+  </li>
+  
+  <li>
+  <mark>float</mark> - sets cutoff/center frequency (default=0)
+  </li>
+  
+  <li>
+  <mark>float</mark> - sets Q/slope (default=1)
+  </li>
+  
+  <li>
+  <mark>float</mark> - sets gain in dB (default=0)
+  </li>
+  
+  </ol>
+  </div>
+  
+  
+  
+  
+  
+  <div id="methods"  class="reference-flags">
+  <h4>METHODs</h4> 
+  
+  <li>
+  <mark></mark> - sets &#34;Q&#34; or &#34;Slope&#34; and outputs coefficients
+  </li>
+  
+  <li>
+  <mark></mark> - sets gain in dB and outputs coefficients
+  </li>
+  
+   </div>
+  
+
+  </br>
+
+  
+
+  
+  <hr>
+</div>
+
+
+  
+</main>
+      <footer> <footer id="footer">
+  <br>
+  <hr>
+  <nav>
+    made with <a href="https://gohugo.io/" target="_blank">HUGO</a>
+    | hosted at <a href="https://iem.at/" target="_blank">IEM</a>
+  </nav> 
+</footer>
+
+ </footer>
+    </div>
+    <script src="../../js/pd-v0.1.js"></script>	
+  </body>
+</html>
+

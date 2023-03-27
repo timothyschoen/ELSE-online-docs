@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Pure Data - [sfont~] </title>
+    <meta http-equiv="Content-Type" content="text/html">
+    <link rel="stylesheet" type="text/css" href="../../css/pd-v0.1.css" media="screen">
+    <link rel="icon" type="image/png" href="../../favicon.ico">
+  </head>
+  <body>
+    <div id=corpus>
+      <header> <a href="../../">home</a> | <a href="../">up </a>  <span style="float:right;"> <button class="btn-toggle-theme">&#9680;</button> </span> <span style="float:right;"> <form id="search"
+    action='../../search/' method="get">
+    <label hidden for="search-input">Search site</label>
+    <input type="text" id="search-input" name="query"
+    placeholder="Type here to search">
+    
+</form>
+ </span>
+<hr style="margin: 1px 0px;">
+<p style="margin: 0px;"><small><sub>objects/sfont~.md
+</sub></small></p> </header>
+      <main>
+<h3>[sfont~]</h3>
+<p style="font-size: 105%"></p>
+  
+
+
+
+
+
+
+  
+
+<div class="object-reference">
+  <hr>
+  <div id="inlets"  class="reference-iolets"><h4>INLETs </h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>float</mark> - raw MIDI input</li>
+  
+</ul>
+
+</ul></div>
+  <div id="outlets" class="reference-iolets"><h4>OUTLETs</h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>signal</mark> - left output signal of stereo output</li>
+  
+</ul>
+
+<li>2nd</li>
+<ul>
+  
+  <li><mark>anything</mark> - right output signal of stereo output</li>
+  
+</ul>
+
+<li>3rd</li>
+<ul>
+  
+  <li><mark>anything</mark> - preset and scale name</li>
+  
+</ul>
+
+</ul></div>
+  
+
+  
+  <div id="arguments"  class="reference-arguments">
+  <h4>ARGUMENTs</h4>
+  <ol>
+  
+  <li>
+  <mark>symbol</mark> - soundfont file to load
+  </li>
+  
+  </ol>
+  </div>
+  
+  
+  
+  <div id="flags"  class="reference-flags">
+  <h4>FLAGs</h4> 
+  
+  <li>
+  <mark></mark> - set to verbosity mode
+  </li>
+  
+  <li>
+  <mark></mark> - set the number of channels (default 16)
+  </li>
+  
+  <li>
+  <mark></mark> - set the gain, 0-1 (default 0.4)
+  </li>
+  
+   </div>
+  
+  
+  
+  <div id="methods"  class="reference-flags">
+  <h4>METHODs</h4> 
+  
+  <li>
+  <mark></mark> - loads soundfont file (.sf2/.sf3 extensions implied)
+  </li>
+  
+  <li>
+  <mark></mark> - key, velocity, channel
+  </li>
+  
+  <li>
+  <mark></mark> - same as note
+  </li>
+  
+  <li>
+  <mark></mark> - controller number, value, channel
+  </li>
+  
+  <li>
+  <mark></mark> - pitch bend value, channel
+  </li>
+  
+  <li>
+  <mark></mark> - value, channel
+  </li>
+  
+  <li>
+  <mark></mark> - key, value, channel
+  </li>
+  
+  <li>
+  <mark></mark> - program number, channel
+  </li>
+  
+  <li>
+  <mark></mark> - bank number, channel
+  </li>
+  
+  <li>
+  <mark></mark> - cents, channel
+  </li>
+  
+  <li>
+  <mark></mark> - pan value, channel
+  </li>
+  
+  <li>
+  <mark></mark> - sysex message
+  </li>
+  
+  <li>
+  <mark></mark> - resets synth and clears hanging notes
+  </li>
+  
+  <li>
+  <mark></mark> - prints version info on terminal
+  </li>
+  
+  <li>
+  <mark></mark> - prints soundfont info on terminal
+  </li>
+  
+  <li>
+  <mark></mark> - non-0 sets verbose mode
+  </li>
+  
+  <li>
+  <mark></mark> - list of 128 pitches in MIDI remaps all keys
+  </li>
+  
+  <li>
+  <mark></mark> - scale in cents to retune (12-tone temperament if no list)
+  </li>
+  
+  <li>
+  <mark></mark> - base MIDI pitch
+  </li>
+  
+  <li>
+  <mark></mark> - sets tuning &lt;bank, program, channel &amp; name&gt; for a scale
+  </li>
+  
+  <li>
+  <mark></mark> - selects tuning &lt;bank, program, channel&gt; for a scale
+  </li>
+  
+  <li>
+  <mark></mark> - unselects tuning &lt;bank, program, channel&gt; for a scale
+  </li>
+  
+   </div>
+  
+
+  </br>
+
+  
+
+  
+  <hr>
+</div>
+
+
+  
+</main>
+      <footer> <footer id="footer">
+  <br>
+  <hr>
+  <nav>
+    made with <a href="https://gohugo.io/" target="_blank">HUGO</a>
+    | hosted at <a href="https://iem.at/" target="_blank">IEM</a>
+  </nav> 
+</footer>
+
+ </footer>
+    </div>
+    <script src="../../js/pd-v0.1.js"></script>	
+  </body>
+</html>
+

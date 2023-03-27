@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Pure Data - [susloop~] </title>
+    <meta http-equiv="Content-Type" content="text/html">
+    <link rel="stylesheet" type="text/css" href="../../css/pd-v0.1.css" media="screen">
+    <link rel="icon" type="image/png" href="../../favicon.ico">
+  </head>
+  <body>
+    <div id=corpus>
+      <header> <a href="../../">home</a> | <a href="../">up </a>  <span style="float:right;"> <button class="btn-toggle-theme">&#9680;</button> </span> <span style="float:right;"> <form id="search"
+    action='../../search/' method="get">
+    <label hidden for="search-input">Search site</label>
+    <input type="text" id="search-input" name="query"
+    placeholder="Type here to search">
+    
+</form>
+ </span>
+<hr style="margin: 1px 0px;">
+<p style="margin: 0px;"><small><sub>objects/susloop~.md
+</sub></small></p> </header>
+      <main>
+<h3>[susloop~]</h3>
+<p style="font-size: 105%"></p>
+  
+
+
+
+
+
+
+  
+
+<div class="object-reference">
+  <hr>
+  <div id="inlets"  class="reference-iolets"><h4>INLETs </h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>float/signal</mark> - 0 to non-0; starts and loops. Non-0 to 0; loop is off</li>
+  
+  <li><mark>bang</mark> - trigger; starts from 0 and loops</li>
+  
+</ul>
+
+<li>2nd</li>
+<ul>
+  
+  <li><mark>float/signal</mark> - sets increment value (rate/speed)</li>
+  
+</ul>
+
+</ul></div>
+  <div id="outlets" class="reference-iolets"><h4>OUTLETs</h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>signal</mark> - the control signal for the sampler</li>
+  
+</ul>
+
+<li>2nd</li>
+<ul>
+  
+  <li><mark>float</mark> - status (on; 1 / off; 0)</li>
+  
+</ul>
+
+</ul></div>
+  
+
+  
+  <div id="arguments"  class="reference-arguments">
+  <h4>ARGUMENTs</h4>
+  <ol>
+  
+  <li>
+  <mark>float</mark> - increment value
+  </li>
+  
+  <li>
+  <mark>float</mark> - loop start
+  </li>
+  
+  <li>
+  <mark>float</mark> - loop end
+  </li>
+  
+  <li>
+  <mark>float</mark> - sample size
+  </li>
+  
+  </ol>
+  </div>
+  
+  
+  
+  
+  
+  <div id="methods"  class="reference-flags">
+  <h4>METHODs</h4> 
+  
+  <li>
+  <mark></mark> - loop is off
+  </li>
+  
+  <li>
+  <mark></mark> - stops and goes back to 0, expects a trigger to restart
+  </li>
+  
+  <li>
+  <mark></mark> - pauses/stops incrementing
+  </li>
+  
+  <li>
+  <mark></mark> - continues after being paused
+  </li>
+  
+  <li>
+  <mark></mark> - sets sustain loop range in samples &lt;start, end&gt;
+  </li>
+  
+  <li>
+  <mark></mark> - sets sample size
+  </li>
+  
+   </div>
+  
+
+  </br>
+
+  
+
+  
+  <hr>
+</div>
+
+
+  
+</main>
+      <footer> <footer id="footer">
+  <br>
+  <hr>
+  <nav>
+    made with <a href="https://gohugo.io/" target="_blank">HUGO</a>
+    | hosted at <a href="https://iem.at/" target="_blank">IEM</a>
+  </nav> 
+</footer>
+
+ </footer>
+    </div>
+    <script src="../../js/pd-v0.1.js"></script>	
+  </body>
+</html>
+

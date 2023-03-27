@@ -1,0 +1,4348 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ELSE on Pure Data</title>
+    <link>/</link>
+    <description>Recent content in ELSE on Pure Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>above</title>
+      <link>/objects/above/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/above/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>above~</title>
+      <link>/objects/above~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/above~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>add</title>
+      <link>/objects/add/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>add~</title>
+      <link>/objects/add~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/add~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adsr~</title>
+      <link>/objects/adsr~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/adsr~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>allpass.2nd~</title>
+      <link>/objects/allpass.2nd~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/allpass.2nd~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>allpass.filt~</title>
+      <link>/objects/allpass.filt~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/allpass.filt~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>allpass.rev~</title>
+      <link>/objects/allpass.rev~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/allpass.rev~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amean</title>
+      <link>/objects/amean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/amean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>any2symbol</title>
+      <link>/objects/any2symbol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/any2symbol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>args</title>
+      <link>/objects/args/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/args/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asr~</title>
+      <link>/objects/asr~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/asr~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autofade~</title>
+      <link>/objects/autofade~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/autofade~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autofade2~</title>
+      <link>/objects/autofade2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/autofade2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autotune</title>
+      <link>/objects/autotune/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/autotune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autotune2</title>
+      <link>/objects/autotune2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/autotune2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>avg</title>
+      <link>/objects/avg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/avg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>balance~</title>
+      <link>/objects/balance~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/balance~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bandpass~</title>
+      <link>/objects/bandpass~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bandpass~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bandstop~</title>
+      <link>/objects/bandstop~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bandstop~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bangdiv</title>
+      <link>/objects/bangdiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bangdiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>batch.rec~</title>
+      <link>/objects/batch.rec~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/batch.rec~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>batch.write~</title>
+      <link>/objects/batch.write~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/batch.write~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beat~</title>
+      <link>/objects/beat~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/beat~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bend.in</title>
+      <link>/objects/bend.in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bend.in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bend.out</title>
+      <link>/objects/bend.out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bend.out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bicoeff</title>
+      <link>/objects/bicoeff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bicoeff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bicoeff2</title>
+      <link>/objects/bicoeff2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bicoeff2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bin.shift~</title>
+      <link>/objects/bin.shift~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bin.shift~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biplot</title>
+      <link>/objects/biplot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/biplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biquads~</title>
+      <link>/objects/biquads~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/biquads~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bitnormal~</title>
+      <link>/objects/bitnormal~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bitnormal~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bl.imp~</title>
+      <link>/objects/bl.imp~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bl.imp~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bl.imp2~</title>
+      <link>/objects/bl.imp2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bl.imp2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bl.osc~</title>
+      <link>/objects/bl.osc~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bl.osc~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bl.saw~</title>
+      <link>/objects/bl.saw~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bl.saw~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bl.saw2~</title>
+      <link>/objects/bl.saw2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bl.saw2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bl.square~</title>
+      <link>/objects/bl.square~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bl.square~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bl.tri~</title>
+      <link>/objects/bl.tri~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bl.tri~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bl.vsaw~</title>
+      <link>/objects/bl.vsaw~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bl.vsaw~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bl.wavetable~</title>
+      <link>/objects/bl.wavetable~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bl.wavetable~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blip~</title>
+      <link>/objects/blip~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/blip~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blocksize~</title>
+      <link>/objects/blocksize~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/blocksize~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bpbank~</title>
+      <link>/objects/bpbank~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bpbank~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bpm</title>
+      <link>/objects/bpm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/bpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>break</title>
+      <link>/objects/break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/break/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brickwall~</title>
+      <link>/objects/brickwall~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/brickwall~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brown</title>
+      <link>/objects/brown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brown~</title>
+      <link>/objects/brown~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/brown~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>buffer</title>
+      <link>/objects/buffer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/buffer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>button</title>
+      <link>/objects/button/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/button/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canvas.active</title>
+      <link>/objects/canvas.active/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/canvas.active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canvas.bounds</title>
+      <link>/objects/canvas.bounds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/canvas.bounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canvas.edit</title>
+      <link>/objects/canvas.edit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/canvas.edit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canvas.file</title>
+      <link>/objects/canvas.file/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/canvas.file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canvas.gop</title>
+      <link>/objects/canvas.gop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/canvas.gop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canvas.mouse</title>
+      <link>/objects/canvas.mouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/canvas.mouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canvas.name</title>
+      <link>/objects/canvas.name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/canvas.name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canvas.pos</title>
+      <link>/objects/canvas.pos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/canvas.pos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canvas.setname</title>
+      <link>/objects/canvas.setname/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/canvas.setname/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canvas.vis</title>
+      <link>/objects/canvas.vis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/canvas.vis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canvas.zoom</title>
+      <link>/objects/canvas.zoom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/canvas.zoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>car2pol</title>
+      <link>/objects/car2pol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/car2pol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>car2pol~</title>
+      <link>/objects/car2pol~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/car2pol~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ceil</title>
+      <link>/objects/ceil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/ceil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ceil~</title>
+      <link>/objects/ceil~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/ceil~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cents2frac</title>
+      <link>/objects/cents2frac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/cents2frac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cents2ratio</title>
+      <link>/objects/cents2ratio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/cents2ratio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cents2ratio~</title>
+      <link>/objects/cents2ratio~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/cents2ratio~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cents2scale</title>
+      <link>/objects/cents2scale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/cents2scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chance</title>
+      <link>/objects/chance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/chance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chance~</title>
+      <link>/objects/chance~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/chance~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>changed</title>
+      <link>/objects/changed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/changed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>changed~</title>
+      <link>/objects/changed~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/changed~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>changed2~</title>
+      <link>/objects/changed2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/changed2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chorus~</title>
+      <link>/objects/chorus~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/chorus~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chrono</title>
+      <link>/objects/chrono/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/chrono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>circle</title>
+      <link>/objects/circle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/circle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>click</title>
+      <link>/objects/click/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/click/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clock</title>
+      <link>/objects/clock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/clock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cmul~</title>
+      <link>/objects/cmul~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/cmul~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coeff2pz</title>
+      <link>/objects/coeff2pz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/coeff2pz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>colors</title>
+      <link>/objects/colors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/colors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comb.filt~</title>
+      <link>/objects/comb.filt~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/comb.filt~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comb.rev~</title>
+      <link>/objects/comb.rev~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/comb.rev~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>combine</title>
+      <link>/objects/combine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/combine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compress~</title>
+      <link>/objects/compress~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/compress~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conv~</title>
+      <link>/objects/conv~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/conv~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cosine~</title>
+      <link>/objects/cosine~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/cosine~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>count</title>
+      <link>/objects/count/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/count/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crackle~</title>
+      <link>/objects/crackle~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/crackle~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crossover~</title>
+      <link>/objects/crossover~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/crossover~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crusher~</title>
+      <link>/objects/crusher~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/crusher~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ctl.in</title>
+      <link>/objects/ctl.in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/ctl.in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ctl.out</title>
+      <link>/objects/ctl.out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/ctl.out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cusp~</title>
+      <link>/objects/cusp~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/cusp~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datetime</title>
+      <link>/objects/datetime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/datetime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>db2lin</title>
+      <link>/objects/db2lin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/db2lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>db2lin~</title>
+      <link>/objects/db2lin~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/db2lin~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dec2frac</title>
+      <link>/objects/dec2frac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/dec2frac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dec2hex</title>
+      <link>/objects/dec2hex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/dec2hex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decay~</title>
+      <link>/objects/decay~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/decay~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decay2~</title>
+      <link>/objects/decay2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/decay2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>default</title>
+      <link>/objects/default/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/default/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deg2rad</title>
+      <link>/objects/deg2rad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/deg2rad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>del~</title>
+      <link>/objects/del~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/del~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>delete</title>
+      <link>/objects/delete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>detect~</title>
+      <link>/objects/detect~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/detect~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dir</title>
+      <link>/objects/dir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/dir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>display</title>
+      <link>/objects/display/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/display/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dollsym</title>
+      <link>/objects/dollsym/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/dollsym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>downsample~</title>
+      <link>/objects/downsample~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/downsample~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drive~</title>
+      <link>/objects/drive~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/drive~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drum.seq</title>
+      <link>/objects/drum.seq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/drum.seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drunkard</title>
+      <link>/objects/drunkard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/drunkard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drunkard~</title>
+      <link>/objects/drunkard~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/drunkard~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>duck~</title>
+      <link>/objects/duck~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/duck~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dust~</title>
+      <link>/objects/dust~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/dust~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dust2~</title>
+      <link>/objects/dust2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/dust2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e</title>
+      <link>/objects/e/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>echo.rev~</title>
+      <link>/objects/echo.rev~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/echo.rev~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>else</title>
+      <link>/objects/else/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/else/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>envelope~</title>
+      <link>/objects/envelope~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/envelope~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>envgen~</title>
+      <link>/objects/envgen~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/envgen~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eq~</title>
+      <link>/objects/eq~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/eq~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eqdiv</title>
+      <link>/objects/eqdiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/eqdiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>euclid</title>
+      <link>/objects/euclid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/euclid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>expand~</title>
+      <link>/objects/expand~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/expand~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>f2s~</title>
+      <link>/objects/f2s~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/f2s~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>factor</title>
+      <link>/objects/factor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/factor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fader~</title>
+      <link>/objects/fader~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/fader~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fbdelay~</title>
+      <link>/objects/fbdelay~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/fbdelay~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fbsine~</title>
+      <link>/objects/fbsine~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/fbsine~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fbsine2~</title>
+      <link>/objects/fbsine2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/fbsine2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fdn.rev~</title>
+      <link>/objects/fdn.rev~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/fdn.rev~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ffdelay~</title>
+      <link>/objects/ffdelay~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/ffdelay~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flanger~</title>
+      <link>/objects/flanger~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/flanger~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>float2bits</title>
+      <link>/objects/float2bits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/float2bits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>float2sig~</title>
+      <link>/objects/float2sig~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/float2sig~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>floor</title>
+      <link>/objects/floor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/floor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>floor~</title>
+      <link>/objects/floor~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/floor~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fold</title>
+      <link>/objects/fold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/fold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fold~</title>
+      <link>/objects/fold~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/fold~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fontsize</title>
+      <link>/objects/fontsize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/fontsize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>format</title>
+      <link>/objects/format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/format/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frac.add</title>
+      <link>/objects/frac.add/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/frac.add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frac.mul</title>
+      <link>/objects/frac.mul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/frac.mul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frac2cents</title>
+      <link>/objects/frac2cents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/frac2cents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frac2dec</title>
+      <link>/objects/frac2dec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/frac2dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>free.rev~</title>
+      <link>/objects/free.rev~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/free.rev~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freeze~</title>
+      <link>/objects/freeze~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/freeze~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freq.shift~</title>
+      <link>/objects/freq.shift~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/freq.shift~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freq2midi</title>
+      <link>/objects/freq2midi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/freq2midi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>function</title>
+      <link>/objects/function/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>function~</title>
+      <link>/objects/function~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/function~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gain~</title>
+      <link>/objects/gain~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/gain~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gain2~</title>
+      <link>/objects/gain2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/gain2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gate2imp~</title>
+      <link>/objects/gate2imp~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/gate2imp~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gatehold~</title>
+      <link>/objects/gatehold~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/gatehold~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaussian~</title>
+      <link>/objects/gaussian~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/gaussian~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gbman~</title>
+      <link>/objects/gbman~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/gbman~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gcd</title>
+      <link>/objects/gcd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/gcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gendyn~</title>
+      <link>/objects/gendyn~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/gendyn~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>giga.rev~</title>
+      <link>/objects/giga.rev~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/giga.rev~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glide</title>
+      <link>/objects/glide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/glide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glide~</title>
+      <link>/objects/glide~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/glide~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glide2</title>
+      <link>/objects/glide2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/glide2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glide2~</title>
+      <link>/objects/glide2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/glide2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gmean</title>
+      <link>/objects/gmean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/gmean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grain.live~</title>
+      <link>/objects/grain.live~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/grain.live~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grain.sampler~</title>
+      <link>/objects/grain.sampler~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/grain.sampler~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grain.synth~</title>
+      <link>/objects/grain.synth~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/grain.synth~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gran.player~</title>
+      <link>/objects/gran.player~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/gran.player~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph~</title>
+      <link>/objects/graph~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/graph~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gray~</title>
+      <link>/objects/gray~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/gray~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>group</title>
+      <link>/objects/group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hann~</title>
+      <link>/objects/hann~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/hann~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>henon~</title>
+      <link>/objects/henon~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/henon~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hex2dec</title>
+      <link>/objects/hex2dec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/hex2dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>highpass~</title>
+      <link>/objects/highpass~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/highpass~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>highshelf~</title>
+      <link>/objects/highshelf~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/highshelf~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hip.bw~</title>
+      <link>/objects/hip.bw~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/hip.bw~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>histogram</title>
+      <link>/objects/histogram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/histogram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hot</title>
+      <link>/objects/hot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/hot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hz2rad</title>
+      <link>/objects/hz2rad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/hz2rad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ikeda~</title>
+      <link>/objects/ikeda~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/ikeda~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imp~</title>
+      <link>/objects/imp~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/imp~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imp2~</title>
+      <link>/objects/imp2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/imp2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>impseq~</title>
+      <link>/objects/impseq~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/impseq~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>impulse</title>
+      <link>/objects/impulse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/impulse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>impulse~</title>
+      <link>/objects/impulse~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/impulse~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>impulse2~</title>
+      <link>/objects/impulse2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/impulse2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>initmess</title>
+      <link>/objects/initmess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/initmess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>insert</title>
+      <link>/objects/insert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/insert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interpolate</title>
+      <link>/objects/interpolate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/interpolate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iterate</title>
+      <link>/objects/iterate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/iterate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keyboard</title>
+      <link>/objects/keyboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/keyboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keycode</title>
+      <link>/objects/keycode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/keycode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keymap</title>
+      <link>/objects/keymap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/keymap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lag~</title>
+      <link>/objects/lag~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lag~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lag2~</title>
+      <link>/objects/lag2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lag2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lastvalue</title>
+      <link>/objects/lastvalue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lastvalue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lastvalue~</title>
+      <link>/objects/lastvalue~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lastvalue~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latoocarfian~</title>
+      <link>/objects/latoocarfian~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/latoocarfian~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lb</title>
+      <link>/objects/lb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lcm</title>
+      <link>/objects/lcm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lfnoise</title>
+      <link>/objects/lfnoise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lfnoise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lfnoise~</title>
+      <link>/objects/lfnoise~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lfnoise~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lfo</title>
+      <link>/objects/lfo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>limit</title>
+      <link>/objects/limit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/limit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lin2db</title>
+      <link>/objects/lin2db/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lin2db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lin2db~</title>
+      <link>/objects/lin2db~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lin2db~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lincong~</title>
+      <link>/objects/lincong~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lincong~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>loadbanger</title>
+      <link>/objects/loadbanger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/loadbanger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logistic~</title>
+      <link>/objects/logistic~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/logistic~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>loop</title>
+      <link>/objects/loop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/loop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lop.bw~</title>
+      <link>/objects/lop.bw~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lop.bw~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lop2~</title>
+      <link>/objects/lop2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lop2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lorenz~</title>
+      <link>/objects/lorenz~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lorenz~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lowpass~</title>
+      <link>/objects/lowpass~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lowpass~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lowshelf~</title>
+      <link>/objects/lowshelf~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/lowshelf~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mag</title>
+      <link>/objects/mag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/mag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mag~</title>
+      <link>/objects/mag~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/mag~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>makenote2</title>
+      <link>/objects/makenote2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/makenote2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markov</title>
+      <link>/objects/markov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/markov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>match~</title>
+      <link>/objects/match~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/match~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maxpeak~</title>
+      <link>/objects/maxpeak~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/maxpeak~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>median</title>
+      <link>/objects/median/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/median/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>median~</title>
+      <link>/objects/median~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/median~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>merge</title>
+      <link>/objects/merge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/merge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>message</title>
+      <link>/objects/message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/message/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>messbox</title>
+      <link>/objects/messbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/messbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meter</title>
+      <link>/objects/meter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/meter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meter~</title>
+      <link>/objects/meter~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/meter~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meter2~</title>
+      <link>/objects/meter2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/meter2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meter4~</title>
+      <link>/objects/meter4~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/meter4~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meter8~</title>
+      <link>/objects/meter8~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/meter8~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metronome</title>
+      <link>/objects/metronome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/metronome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metronome~</title>
+      <link>/objects/metronome~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/metronome~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>midi</title>
+      <link>/objects/midi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/midi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>midi.clock</title>
+      <link>/objects/midi.clock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/midi.clock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>midi.learn</title>
+      <link>/objects/midi.learn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/midi.learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>midi2freq</title>
+      <link>/objects/midi2freq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/midi2freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mix2~</title>
+      <link>/objects/mix2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/mix2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mix4~</title>
+      <link>/objects/mix4~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/mix4~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mono</title>
+      <link>/objects/mono/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/mono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mono.rev~</title>
+      <link>/objects/mono.rev~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/mono.rev~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>morph</title>
+      <link>/objects/morph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/morph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>morph~</title>
+      <link>/objects/morph~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/morph~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mouse</title>
+      <link>/objects/mouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/mouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mov.avg</title>
+      <link>/objects/mov.avg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/mov.avg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mov.avg~</title>
+      <link>/objects/mov.avg~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/mov.avg~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mov.rms~</title>
+      <link>/objects/mov.rms~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/mov.rms~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ms2samps</title>
+      <link>/objects/ms2samps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/ms2samps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ms2samps~</title>
+      <link>/objects/ms2samps~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/ms2samps~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mtx.ctl</title>
+      <link>/objects/mtx.ctl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/mtx.ctl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mtx~</title>
+      <link>/objects/mtx~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/mtx~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi.vsl</title>
+      <link>/objects/multi.vsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/multi.vsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nmess</title>
+      <link>/objects/nmess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/nmess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>noisegate~</title>
+      <link>/objects/noisegate~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/noisegate~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>norm~</title>
+      <link>/objects/norm~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/norm~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>note</title>
+      <link>/objects/note/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>note.in</title>
+      <link>/objects/note.in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/note.in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>note.out</title>
+      <link>/objects/note.out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/note.out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>note2dur</title>
+      <link>/objects/note2dur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/note2dur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>note2pitch</title>
+      <link>/objects/note2pitch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/note2pitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>noteinfo</title>
+      <link>/objects/noteinfo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/noteinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>numbox~</title>
+      <link>/objects/numbox~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/numbox~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nyquist~</title>
+      <link>/objects/nyquist~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/nyquist~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>op</title>
+      <link>/objects/op/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/op/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>op~</title>
+      <link>/objects/op~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/op~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openfile</title>
+      <link>/objects/openfile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/openfile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>order</title>
+      <link>/objects/order/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/order/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osc.format</title>
+      <link>/objects/osc.format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/osc.format/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osc.parse</title>
+      <link>/objects/osc.parse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/osc.parse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osc.receive</title>
+      <link>/objects/osc.receive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/osc.receive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osc.route</title>
+      <link>/objects/osc.route/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/osc.route/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osc.send</title>
+      <link>/objects/osc.send/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/osc.send/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oscbank~</title>
+      <link>/objects/oscbank~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/oscbank~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oscbank2~</title>
+      <link>/objects/oscbank2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/oscbank2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oscope~</title>
+      <link>/objects/oscope~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/oscope~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>out~</title>
+      <link>/objects/out~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/out~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>out1~</title>
+      <link>/objects/out1~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/out1~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>out4~</title>
+      <link>/objects/out4~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/out4~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>out8~</title>
+      <link>/objects/out8~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/out8~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pack2</title>
+      <link>/objects/pack2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pack2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pad</title>
+      <link>/objects/pad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pan2~</title>
+      <link>/objects/pan2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pan2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pan4~</title>
+      <link>/objects/pan4~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pan4~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pan8~</title>
+      <link>/objects/pan8~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pan8~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>panic</title>
+      <link>/objects/panic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/panic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parabolic~</title>
+      <link>/objects/parabolic~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/parabolic~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pattern</title>
+      <link>/objects/pattern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>peak~</title>
+      <link>/objects/peak~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/peak~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perlin~</title>
+      <link>/objects/perlin~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/perlin~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pgm.in</title>
+      <link>/objects/pgm.in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pgm.in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pgm.out</title>
+      <link>/objects/pgm.out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pgm.out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phaser~</title>
+      <link>/objects/phaser~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/phaser~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phasor</title>
+      <link>/objects/phasor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/phasor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pi</title>
+      <link>/objects/pi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pic</title>
+      <link>/objects/pic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pick</title>
+      <link>/objects/pick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pimp</title>
+      <link>/objects/pimp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pimp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pimp~</title>
+      <link>/objects/pimp~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pimp~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pimpmul~</title>
+      <link>/objects/pimpmul~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pimpmul~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ping.pong~</title>
+      <link>/objects/ping.pong~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/ping.pong~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pink~</title>
+      <link>/objects/pink~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pink~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pipe2</title>
+      <link>/objects/pipe2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pipe2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pitch.shift~</title>
+      <link>/objects/pitch.shift~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pitch.shift~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pitch2note</title>
+      <link>/objects/pitch2note/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pitch2note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plaits~</title>
+      <link>/objects/plaits~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/plaits~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plate.rev~</title>
+      <link>/objects/plate.rev~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/plate.rev~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>play.file~</title>
+      <link>/objects/play.file~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/play.file~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>player~</title>
+      <link>/objects/player~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/player~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pluck~</title>
+      <link>/objects/pluck~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pluck~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pmosc~</title>
+      <link>/objects/pmosc~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pmosc~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pol2car</title>
+      <link>/objects/pol2car/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pol2car/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pol2car~</title>
+      <link>/objects/pol2car~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pol2car~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polymetro</title>
+      <link>/objects/polymetro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/polymetro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polymetro~</title>
+      <link>/objects/polymetro~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/polymetro~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>power~</title>
+      <link>/objects/power~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/power~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presets</title>
+      <link>/objects/presets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/presets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>properties</title>
+      <link>/objects/properties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/properties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pulse</title>
+      <link>/objects/pulse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pulse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pulse~</title>
+      <link>/objects/pulse~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pulse~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pulsecount~</title>
+      <link>/objects/pulsecount~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pulsecount~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pulsediv~</title>
+      <link>/objects/pulsediv~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pulsediv~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pvoc.freeze~</title>
+      <link>/objects/pvoc.freeze~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pvoc.freeze~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pvoc.live~</title>
+      <link>/objects/pvoc.live~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pvoc.live~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pvoc.player~</title>
+      <link>/objects/pvoc.player~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pvoc.player~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pz2coeff</title>
+      <link>/objects/pz2coeff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/pz2coeff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quad~</title>
+      <link>/objects/quad~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/quad~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantizer</title>
+      <link>/objects/quantizer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/quantizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantizer~</title>
+      <link>/objects/quantizer~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/quantizer~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rad2deg</title>
+      <link>/objects/rad2deg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rad2deg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rad2hz</title>
+      <link>/objects/rad2hz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rad2hz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ramp~</title>
+      <link>/objects/ramp~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/ramp~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rampnoise</title>
+      <link>/objects/rampnoise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rampnoise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rampnoise~</title>
+      <link>/objects/rampnoise~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rampnoise~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rand.dist</title>
+      <link>/objects/rand.dist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rand.dist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rand.f</title>
+      <link>/objects/rand.f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rand.f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rand.f~</title>
+      <link>/objects/rand.f~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rand.f~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rand.hist</title>
+      <link>/objects/rand.hist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rand.hist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rand.i</title>
+      <link>/objects/rand.i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rand.i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rand.i~</title>
+      <link>/objects/rand.i~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rand.i~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rand.list</title>
+      <link>/objects/rand.list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rand.list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rand.u</title>
+      <link>/objects/rand.u/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rand.u/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>randpulse</title>
+      <link>/objects/randpulse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/randpulse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>randpulse~</title>
+      <link>/objects/randpulse~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/randpulse~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>randpulse2</title>
+      <link>/objects/randpulse2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/randpulse2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>randpulse2~</title>
+      <link>/objects/randpulse2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/randpulse2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>range</title>
+      <link>/objects/range/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/range/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>range.hsl</title>
+      <link>/objects/range.hsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/range.hsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>range~</title>
+      <link>/objects/range~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/range~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ratio2cents</title>
+      <link>/objects/ratio2cents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/ratio2cents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ratio2cents~</title>
+      <link>/objects/ratio2cents~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/ratio2cents~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rdelay~</title>
+      <link>/objects/rdelay~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rdelay~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rec</title>
+      <link>/objects/rec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rec.file~</title>
+      <link>/objects/rec.file~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rec.file~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rec2</title>
+      <link>/objects/rec2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rec2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>receiver</title>
+      <link>/objects/receiver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/receiver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>replace</title>
+      <link>/objects/replace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/replace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rescale</title>
+      <link>/objects/rescale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rescale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rescale~</title>
+      <link>/objects/rescale~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rescale~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resonant~</title>
+      <link>/objects/resonant~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/resonant~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resonant2~</title>
+      <link>/objects/resonant2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/resonant2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resonbank~</title>
+      <link>/objects/resonbank~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/resonbank~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resonbank2~</title>
+      <link>/objects/resonbank2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/resonbank2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retrieve</title>
+      <link>/objects/retrieve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/retrieve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retune</title>
+      <link>/objects/retune/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/retune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reverse</title>
+      <link>/objects/reverse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/reverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rint</title>
+      <link>/objects/rint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rint~</title>
+      <link>/objects/rint~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rint~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rm~</title>
+      <link>/objects/rm~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rm~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rms~</title>
+      <link>/objects/rms~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rms~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rotate</title>
+      <link>/objects/rotate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rotate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rotate~</title>
+      <link>/objects/rotate~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/rotate~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>route2</title>
+      <link>/objects/route2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/route2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>routeall</title>
+      <link>/objects/routeall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/routeall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>router</title>
+      <link>/objects/router/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/router/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>routetype</title>
+      <link>/objects/routetype/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/routetype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>s2f~</title>
+      <link>/objects/s2f~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/s2f~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sample~</title>
+      <link>/objects/sample~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sample~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>samps2ms</title>
+      <link>/objects/samps2ms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/samps2ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>samps2ms~</title>
+      <link>/objects/samps2ms~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/samps2ms~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>saw~</title>
+      <link>/objects/saw~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/saw~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>saw2~</title>
+      <link>/objects/saw2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/saw2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scala</title>
+      <link>/objects/scala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scale2cents</title>
+      <link>/objects/scale2cents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/scale2cents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scale2freq</title>
+      <link>/objects/scale2freq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/scale2freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scales</title>
+      <link>/objects/scales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/scales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schmitt</title>
+      <link>/objects/schmitt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/schmitt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schmitt~</title>
+      <link>/objects/schmitt~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/schmitt~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>score</title>
+      <link>/objects/score/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/score/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>score2</title>
+      <link>/objects/score2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/score2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scramble</title>
+      <link>/objects/scramble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/scramble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>selector</title>
+      <link>/objects/selector/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/selector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>separate</title>
+      <link>/objects/separate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/separate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sequencer</title>
+      <link>/objects/sequencer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sequencer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sequencer~</title>
+      <link>/objects/sequencer~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sequencer~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>setdsp~</title>
+      <link>/objects/setdsp~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/setdsp~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sfont~</title>
+      <link>/objects/sfont~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sfont~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sh~</title>
+      <link>/objects/sh~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sh~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shaper~</title>
+      <link>/objects/shaper~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/shaper~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sig2float~</title>
+      <link>/objects/sig2float~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sig2float~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sin~</title>
+      <link>/objects/sin~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sin~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sine~</title>
+      <link>/objects/sine~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sine~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slew</title>
+      <link>/objects/slew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/slew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slew~</title>
+      <link>/objects/slew~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/slew~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slew2</title>
+      <link>/objects/slew2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/slew2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slew2~</title>
+      <link>/objects/slew2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/slew2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slice</title>
+      <link>/objects/slice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/slice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slider2d</title>
+      <link>/objects/slider2d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/slider2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sort</title>
+      <link>/objects/sort/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spectrograph~</title>
+      <link>/objects/spectrograph~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/spectrograph~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speed</title>
+      <link>/objects/speed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/speed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spread</title>
+      <link>/objects/spread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/spread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spread~</title>
+      <link>/objects/spread~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/spread~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>square~</title>
+      <link>/objects/square~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/square~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sr~</title>
+      <link>/objects/sr~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sr~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stack</title>
+      <link>/objects/stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/stack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>standard~</title>
+      <link>/objects/standard~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/standard~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>status</title>
+      <link>/objects/status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/status/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>status~</title>
+      <link>/objects/status~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/status~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stepnoise</title>
+      <link>/objects/stepnoise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/stepnoise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stepnoise~</title>
+      <link>/objects/stepnoise~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/stepnoise~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stereo.rev~</title>
+      <link>/objects/stereo.rev~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/stereo.rev~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>store</title>
+      <link>/objects/store/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/store/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stream</title>
+      <link>/objects/stream/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/stream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stretch.shift~</title>
+      <link>/objects/stretch.shift~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/stretch.shift~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sum</title>
+      <link>/objects/sum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>susloop~</title>
+      <link>/objects/susloop~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/susloop~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suspedal</title>
+      <link>/objects/suspedal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/suspedal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>svfilter~</title>
+      <link>/objects/svfilter~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/svfilter~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swap2</title>
+      <link>/objects/swap2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/swap2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symbol2any</title>
+      <link>/objects/symbol2any/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/symbol2any/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sysrt.in</title>
+      <link>/objects/sysrt.in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sysrt.in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sysrt.out</title>
+      <link>/objects/sysrt.out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/sysrt.out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tabgen</title>
+      <link>/objects/tabgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/tabgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tabplayer~</title>
+      <link>/objects/tabplayer~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/tabplayer~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tabreader</title>
+      <link>/objects/tabreader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/tabreader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tabreader~</title>
+      <link>/objects/tabreader~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/tabreader~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tabwriter~</title>
+      <link>/objects/tabwriter~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/tabwriter~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tap</title>
+      <link>/objects/tap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/tap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tempo</title>
+      <link>/objects/tempo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/tempo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tempo~</title>
+      <link>/objects/tempo~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/tempo~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>timed.gate</title>
+      <link>/objects/timed.gate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/timed.gate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>timed.gate~</title>
+      <link>/objects/timed.gate~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/timed.gate~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>toggleff~</title>
+      <link>/objects/toggleff~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/toggleff~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>touch.in</title>
+      <link>/objects/touch.in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/touch.in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>touch.out</title>
+      <link>/objects/touch.out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/touch.out/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tremolo~</title>
+      <link>/objects/tremolo~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/tremolo~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tri~</title>
+      <link>/objects/tri~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/tri~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trig.delay~</title>
+      <link>/objects/trig.delay~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/trig.delay~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trig.delay2~</title>
+      <link>/objects/trig.delay2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/trig.delay2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trig2bang</title>
+      <link>/objects/trig2bang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/trig2bang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trig2bang~</title>
+      <link>/objects/trig2bang~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/trig2bang~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trighold~</title>
+      <link>/objects/trighold~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/trighold~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trunc</title>
+      <link>/objects/trunc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/trunc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trunc~</title>
+      <link>/objects/trunc~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/trunc~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unite</title>
+      <link>/objects/unite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/unite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unmerge</title>
+      <link>/objects/unmerge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/unmerge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vibrato~</title>
+      <link>/objects/vibrato~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/vibrato~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vocoder~</title>
+      <link>/objects/vocoder~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/vocoder~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voices</title>
+      <link>/objects/voices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/voices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vsaw~</title>
+      <link>/objects/vsaw~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/vsaw~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vu~</title>
+      <link>/objects/vu~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/vu~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wavetable~</title>
+      <link>/objects/wavetable~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/wavetable~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome to ELSE</title>
+      <link>/welcome-to-else/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/welcome-to-else/</guid>
+      <description>Welcome to ELSE some stuff about else here, made by porres, etc.</description>
+    </item>
+    
+    <item>
+      <title>white~</title>
+      <link>/objects/white~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/white~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wrap2</title>
+      <link>/objects/wrap2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/wrap2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wrap2~</title>
+      <link>/objects/wrap2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/wrap2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wt~</title>
+      <link>/objects/wt~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/wt~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xfade~</title>
+      <link>/objects/xfade~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/xfade~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xgate~</title>
+      <link>/objects/xgate~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/xgate~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xgate2~</title>
+      <link>/objects/xgate2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/xgate2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xmod~</title>
+      <link>/objects/xmod~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/xmod~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xmod2~</title>
+      <link>/objects/xmod2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/xmod2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xselect~</title>
+      <link>/objects/xselect~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/xselect~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xselect2~</title>
+      <link>/objects/xselect2~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/xselect2~/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zbiplot</title>
+      <link>/objects/zbiplot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/zbiplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zerocross~</title>
+      <link>/objects/zerocross~/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/objects/zerocross~/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

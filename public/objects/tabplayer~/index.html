@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Pure Data - [tabplayer~] </title>
+    <meta http-equiv="Content-Type" content="text/html">
+    <link rel="stylesheet" type="text/css" href="../../css/pd-v0.1.css" media="screen">
+    <link rel="icon" type="image/png" href="../../favicon.ico">
+  </head>
+  <body>
+    <div id=corpus>
+      <header> <a href="../../">home</a> | <a href="../">up </a>  <span style="float:right;"> <button class="btn-toggle-theme">&#9680;</button> </span> <span style="float:right;"> <form id="search"
+    action='../../search/' method="get">
+    <label hidden for="search-input">Search site</label>
+    <input type="text" id="search-input" name="query"
+    placeholder="Type here to search">
+    
+</form>
+ </span>
+<hr style="margin: 1px 0px;">
+<p style="margin: 0px;"><small><sub>objects/tabplayer~.md
+</sub></small></p> </header>
+      <main>
+<h3>[tabplayer~]</h3>
+<p style="font-size: 105%"></p>
+  
+
+
+
+
+
+
+  
+
+<div class="object-reference">
+  <hr>
+  <div id="inlets"  class="reference-iolets"><h4>INLETs </h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>float</mark> - non-0 plays, 0 stops</li>
+  
+  <li><mark>bang</mark> - play (same as non-0)</li>
+  
+  <li><mark>signal</mark> - gate on/impulse — starts, gate off — stops (not in trigger mode)</li>
+  
+</ul>
+
+</ul></div>
+  <div id="outlets" class="reference-iolets"><h4>OUTLETs</h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>signal</mark> - the playback of a channel</li>
+  
+</ul>
+
+<li>2nd</li>
+<ul>
+  
+  <li><mark>bang</mark> - when it stops/finishes playing or when looping</li>
+  
+</ul>
+
+</ul></div>
+  
+
+  
+  <div id="arguments"  class="reference-arguments">
+  <h4>ARGUMENTs</h4>
+  <ol>
+  
+  <li>
+  <mark>symbol</mark> - table name (optional)
+  </li>
+  
+  <li>
+  <mark>float</mark> - number of output channels (maximum 64)
+  </li>
+  
+  </ol>
+  </div>
+  
+  
+  
+  <div id="flags"  class="reference-flags">
+  <h4>FLAGs</h4> 
+  
+  <li>
+  <mark></mark> - 
+  </li>
+  
+  <li>
+  <mark></mark> - 
+  </li>
+  
+  <li>
+  <mark></mark> - sets to trigger mode
+  </li>
+  
+  <li>
+  <mark></mark> - sets to loop mode
+  </li>
+  
+  <li>
+  <mark></mark> - sets to trigger mode
+  </li>
+  
+  <li>
+  <mark></mark> - sets to loop mode
+  </li>
+  
+  <li>
+  <mark></mark> - sets to crossfade mode
+  </li>
+  
+  <li>
+  <mark></mark> - 
+  </li>
+  
+  <li>
+  <mark></mark> - 
+  </li>
+  
+   </div>
+  
+  
+  
+  <div id="methods"  class="reference-flags">
+  <h4>METHODs</h4> 
+  
+  <li>
+  <mark></mark> - non-0 sets to trigger mode, zero sets to gate mode
+  </li>
+  
+  <li>
+  <mark></mark> - sets array name
+  </li>
+  
+  <li>
+  <mark></mark> - sets start point in ms
+  </li>
+  
+  <li>
+  <mark></mark> - sets end point in ms
+  </li>
+  
+  <li>
+  <mark></mark> - sets start and end point range proportionally (from 0 to 1)
+  </li>
+  
+  <li>
+  <mark></mark> - sets position proportionally within range (from 0 to 1)
+  </li>
+  
+  <li>
+  <mark></mark> - resets range from 0 to array size
+  </li>
+  
+  <li>
+  <mark></mark> - sets playing speed in %
+  </li>
+  
+  <li>
+  <mark></mark> - start playing, optional &lt;start in ms, end in ms, speed rate&gt;
+  </li>
+  
+  <li>
+  <mark></mark> - stops playing and outputs 0 (cannot be resumed)
+  </li>
+  
+  <li>
+  <mark></mark> - pauses at a particular point (can be resumed)
+  </li>
+  
+  <li>
+  <mark></mark> - resumes playing after being paused
+  </li>
+  
+  <li>
+  <mark></mark> - non-0 enables looping, &lt;0&gt; disables it
+  </li>
+  
+  <li>
+  <mark></mark> - sets fade time in ms
+  </li>
+  
+  <li>
+  <mark></mark> - sets to crossfade mode when looping
+  </li>
+  
+  <li>
+  <mark></mark> - sets sample rate of sample (default, Pd&#39;s sample rate)
+  </li>
+  
+   </div>
+  
+
+  </br>
+
+  
+
+  
+  <hr>
+</div>
+
+
+  
+</main>
+      <footer> <footer id="footer">
+  <br>
+  <hr>
+  <nav>
+    made with <a href="https://gohugo.io/" target="_blank">HUGO</a>
+    | hosted at <a href="https://iem.at/" target="_blank">IEM</a>
+  </nav> 
+</footer>
+
+ </footer>
+    </div>
+    <script src="../../js/pd-v0.1.js"></script>	
+  </body>
+</html>
+

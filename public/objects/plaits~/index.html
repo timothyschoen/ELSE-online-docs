@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Pure Data - [plaits~] </title>
+    <meta http-equiv="Content-Type" content="text/html">
+    <link rel="stylesheet" type="text/css" href="../../css/pd-v0.1.css" media="screen">
+    <link rel="icon" type="image/png" href="../../favicon.ico">
+  </head>
+  <body>
+    <div id=corpus>
+      <header> <a href="../../">home</a> | <a href="../">up </a>  <span style="float:right;"> <button class="btn-toggle-theme">&#9680;</button> </span> <span style="float:right;"> <form id="search"
+    action='../../search/' method="get">
+    <label hidden for="search-input">Search site</label>
+    <input type="text" id="search-input" name="query"
+    placeholder="Type here to search">
+    
+</form>
+ </span>
+<hr style="margin: 1px 0px;">
+<p style="margin: 0px;"><small><sub>objects/plaits~.md
+</sub></small></p> </header>
+      <main>
+<h3>[plaits~]</h3>
+<p style="font-size: 105%"></p>
+  
+
+
+
+
+
+
+  
+
+<div class="object-reference">
+  <hr>
+  <div id="inlets"  class="reference-iolets"><h4>INLETs </h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>float/signal</mark> - pitch input</li>
+  
+  <li><mark>bang</mark> - control trigger (when in trigger mode)</li>
+  
+</ul>
+
+<li>2nd</li>
+<ul>
+  
+  <li><mark>signal</mark> - signal trigger input</li>
+  
+</ul>
+
+<li>3rd</li>
+<ul>
+  
+  <li><mark>signal</mark> - level for built-in VCA or excitation signal</li>
+  
+</ul>
+
+</ul></div>
+  <div id="outlets" class="reference-iolets"><h4>OUTLETs</h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>signal</mark> - regular signal output</li>
+  
+</ul>
+
+<li>2nd</li>
+<ul>
+  
+  <li><mark>signal</mark> - secondary (auxiliary) signal output</li>
+  
+</ul>
+
+<li>3rd</li>
+<ul>
+  
+  <li><mark>anything</mark> - output info on setting model or &#39;dump&#39;</li>
+  
+</ul>
+
+</ul></div>
+  
+
+  
+  <div id="arguments"  class="reference-arguments">
+  <h4>ARGUMENTs</h4>
+  <ol>
+  
+  <li>
+  <mark>float</mark> - pitch
+  </li>
+  
+  <li>
+  <mark>float</mark> - harmonics
+  </li>
+  
+  <li>
+  <mark>float</mark> - timbre
+  </li>
+  
+  <li>
+  <mark>float</mark> - morph
+  </li>
+  
+  <li>
+  <mark>float</mark> - cutoff
+  </li>
+  
+  <li>
+  <mark>float</mark> - decay
+  </li>
+  
+  </ol>
+  </div>
+  
+  
+  
+  <div id="flags"  class="reference-flags">
+  <h4>FLAGs</h4> 
+  
+  <li>
+  <mark></mark> - set to pitch input in CV, MIDI, or v/oct (default Hz)
+  </li>
+  
+  <li>
+  <mark></mark> - set model number (default 0)
+  </li>
+  
+  <li>
+  <mark></mark> - set to trigger mode (default regular)
+  </li>
+  
+   </div>
+  
+  
+  
+  <div id="methods"  class="reference-flags">
+  <h4>METHODs</h4> 
+  
+  <li>
+  <mark></mark> - set frequency mode to Hz
+  </li>
+  
+  <li>
+  <mark></mark> - set frequency mode to MIDI
+  </li>
+  
+  <li>
+  <mark></mark> - set frequency mode to CV
+  </li>
+  
+  <li>
+  <mark></mark> - set frequency mode to v/oct
+  </li>
+  
+  <li>
+  <mark></mark> - non-0 sets to trigger mode
+  </li>
+  
+  <li>
+  <mark></mark> - set model number (0-15)
+  </li>
+  
+  <li>
+  <mark></mark> - set harmonics (0-1)
+  </li>
+  
+  <li>
+  <mark></mark> - set timbre (0-1)
+  </li>
+  
+  <li>
+  <mark></mark> - set morph (0-1)
+  </li>
+  
+  <li>
+  <mark></mark> - set lowpass gate cutoff/color (0-1)
+  </li>
+  
+  <li>
+  <mark></mark> - set lowpass gate decay (0-1)
+  </li>
+  
+  <li>
+  <mark></mark> - output information on terminal window
+  </li>
+  
+  <li>
+  <mark></mark> - output information on rightmost outlet
+  </li>
+  
+   </div>
+  
+
+  </br>
+
+  
+
+  
+  <hr>
+</div>
+
+
+  
+</main>
+      <footer> <footer id="footer">
+  <br>
+  <hr>
+  <nav>
+    made with <a href="https://gohugo.io/" target="_blank">HUGO</a>
+    | hosted at <a href="https://iem.at/" target="_blank">IEM</a>
+  </nav> 
+</footer>
+
+ </footer>
+    </div>
+    <script src="../../js/pd-v0.1.js"></script>	
+  </body>
+</html>
+

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Pure Data - [play.file~] </title>
+    <meta http-equiv="Content-Type" content="text/html">
+    <link rel="stylesheet" type="text/css" href="../../css/pd-v0.1.css" media="screen">
+    <link rel="icon" type="image/png" href="../../favicon.ico">
+  </head>
+  <body>
+    <div id=corpus>
+      <header> <a href="../../">home</a> | <a href="../">up </a>  <span style="float:right;"> <button class="btn-toggle-theme">&#9680;</button> </span> <span style="float:right;"> <form id="search"
+    action='../../search/' method="get">
+    <label hidden for="search-input">Search site</label>
+    <input type="text" id="search-input" name="query"
+    placeholder="Type here to search">
+    
+</form>
+ </span>
+<hr style="margin: 1px 0px;">
+<p style="margin: 0px;"><small><sub>objects/play.file~.md
+</sub></small></p> </header>
+      <main>
+<h3>[play.file~]</h3>
+<p style="font-size: 105%"></p>
+  
+
+
+
+
+
+
+  
+
+<div class="object-reference">
+  <hr>
+  <div id="inlets"  class="reference-iolets"><h4>INLETs </h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>bang</mark> - (re)start playing the sample</li>
+  
+  <li><mark>float</mark> - non-0 (re)starts playing, zero stops</li>
+  
+</ul>
+
+</ul></div>
+  <div id="outlets" class="reference-iolets"><h4>OUTLETs</h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>signal</mark> - the sample signal of channel $nth</li>
+  
+</ul>
+
+<li>2nd</li>
+<ul>
+  
+  <li><mark>bang</mark> - a bang when finishing playing the sample</li>
+  
+</ul>
+
+</ul></div>
+  
+
+  
+  <div id="arguments"  class="reference-arguments">
+  <h4>ARGUMENTs</h4>
+  <ol>
+  
+  <li>
+  <mark>float</mark> - (optional) number of channels (max 64)
+  </li>
+  
+  <li>
+  <mark>symbol</mark> - the name of the file to open
+  </li>
+  
+  <li>
+  <mark>float</mark> - autostart &lt;1; on, 0; off&gt;
+  </li>
+  
+  <li>
+  <mark>float</mark> - loop &lt;1; on, 0; off&gt;
+  </li>
+  
+  </ol>
+  </div>
+  
+  
+  
+  <div id="flags"  class="reference-flags">
+  <h4>FLAGs</h4> 
+  
+  <li>
+  <mark></mark> - turns loop mode on
+  </li>
+  
+   </div>
+  
+  
+  
+  <div id="methods"  class="reference-flags">
+  <h4>METHODs</h4> 
+  
+  <li>
+  <mark></mark> - (re)start playing the sample
+  </li>
+  
+  <li>
+  <mark></mark> - stop playing the sample
+  </li>
+  
+  <li>
+  <mark></mark> - opens a file with the symbol name (no symbol opens dialog box) and starts playing
+  </li>
+  
+  <li>
+  <mark></mark> - sets a file to open next time it starts playing
+  </li>
+  
+  <li>
+  <mark></mark> - loop on &lt;1&gt; or off &lt;0&gt;
+  </li>
+  
+   </div>
+  
+
+  </br>
+
+  
+
+  
+  <hr>
+</div>
+
+
+  
+</main>
+      <footer> <footer id="footer">
+  <br>
+  <hr>
+  <nav>
+    made with <a href="https://gohugo.io/" target="_blank">HUGO</a>
+    | hosted at <a href="https://iem.at/" target="_blank">IEM</a>
+  </nav> 
+</footer>
+
+ </footer>
+    </div>
+    <script src="../../js/pd-v0.1.js"></script>	
+  </body>
+</html>
+

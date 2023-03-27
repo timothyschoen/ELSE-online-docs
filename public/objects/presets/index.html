@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Pure Data - [presets] </title>
+    <meta http-equiv="Content-Type" content="text/html">
+    <link rel="stylesheet" type="text/css" href="../../css/pd-v0.1.css" media="screen">
+    <link rel="icon" type="image/png" href="../../favicon.ico">
+  </head>
+  <body>
+    <div id=corpus>
+      <header> <a href="../../">home</a> | <a href="../">up </a>  <span style="float:right;"> <button class="btn-toggle-theme">&#9680;</button> </span> <span style="float:right;"> <form id="search"
+    action='../../search/' method="get">
+    <label hidden for="search-input">Search site</label>
+    <input type="text" id="search-input" name="query"
+    placeholder="Type here to search">
+    
+</form>
+ </span>
+<hr style="margin: 1px 0px;">
+<p style="margin: 0px;"><small><sub>objects/presets.md
+</sub></small></p> </header>
+      <main>
+<h3>[presets]</h3>
+<p style="font-size: 105%"></p>
+  
+
+
+
+
+
+
+  
+
+<div class="object-reference">
+  <hr>
+  <div id="inlets"  class="reference-iolets"><h4>INLETs </h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>float</mark> - sets a preset number and loads it</li>
+  
+  <li><mark>bang</mark> - save preset (same as &#39;save&#39; without a float)</li>
+  
+  <li><mark>list</mark> - import presets from a list</li>
+  
+</ul>
+
+<li>2nd</li>
+<ul>
+  
+  <li><mark>float</mark> - interpolation value (when in interpolation mode)</li>
+  
+</ul>
+
+</ul></div>
+  <div id="outlets" class="reference-iolets"><h4>OUTLETs</h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>list</mark> - presets as a list when receiving &#34;export&#34; message</li>
+  
+</ul>
+
+<li>2nd</li>
+<ul>
+  
+  <li><mark>bang</mark> - when the preset is empty</li>
+  
+</ul>
+
+</ul></div>
+  
+
+  
+  <div id="arguments"  class="reference-arguments">
+  <h4>ARGUMENTs</h4>
+  <ol>
+  
+  <li>
+  <mark>list</mark> - one or more receive names
+  </li>
+  
+  </ol>
+  </div>
+  
+  
+  
+  <div id="flags"  class="reference-flags">
+  <h4>FLAGs</h4> 
+  
+  <li>
+  <mark></mark> - sets number of presets (
+  </li>
+  
+  <li>
+  <mark></mark> - set a file to import from (
+  </li>
+  
+  <li>
+  <mark></mark> - sets morph time (
+  </li>
+  
+  <li>
+  <mark></mark> - sets morph time and grain (
+  </li>
+  
+  <li>
+  <mark></mark> - sets to interpolation mode (
+  </li>
+  
+  <li>
+  <mark></mark> - sets exponential factor for morph/interpolation (
+  </li>
+  
+   </div>
+  
+  
+  
+  <div id="methods"  class="reference-flags">
+  <h4>METHODs</h4> 
+  
+  <li>
+  <mark></mark> - sets a preset number
+  </li>
+  
+  <li>
+  <mark></mark> - load from a preset number. If no float is given, the last set preset number is loaded
+  </li>
+  
+  <li>
+  <mark></mark> - save to a preset number. If no float is given, the last set preset is saved
+  </li>
+  
+  <li>
+  <mark></mark> - sets number of presets
+  </li>
+  
+  <li>
+  <mark></mark> - sets morph time and grain for morphing between presets
+  </li>
+  
+  <li>
+  <mark></mark> - sets to interpolation mode
+  </li>
+  
+  <li>
+  <mark></mark> - sets exponential factor for interpolation/morphing
+  </li>
+  
+  <li>
+  <mark></mark> - clear data from preset number, no float clears all presets
+  </li>
+  
+  <li>
+  <mark></mark> - open the preset window so you can see/edit values
+  </li>
+  
+  <li>
+  <mark></mark> - close preset window
+  </li>
+  
+  <li>
+  <mark></mark> - replaces receive names arguments
+  </li>
+  
+  <li>
+  <mark></mark> - import presets from a file, no symbol opens dialog window
+  </li>
+  
+  <li>
+  <mark></mark> - write presets to file, no symbol opens dialog window
+  </li>
+  
+  <li>
+  <mark></mark> - export presets as a list
+  </li>
+  
+   </div>
+  
+
+  </br>
+
+  
+
+  
+  <hr>
+</div>
+
+
+  
+</main>
+      <footer> <footer id="footer">
+  <br>
+  <hr>
+  <nav>
+    made with <a href="https://gohugo.io/" target="_blank">HUGO</a>
+    | hosted at <a href="https://iem.at/" target="_blank">IEM</a>
+  </nav> 
+</footer>
+
+ </footer>
+    </div>
+    <script src="../../js/pd-v0.1.js"></script>	
+  </body>
+</html>
+

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Pure Data - [envgen~] </title>
+    <meta http-equiv="Content-Type" content="text/html">
+    <link rel="stylesheet" type="text/css" href="../../css/pd-v0.1.css" media="screen">
+    <link rel="icon" type="image/png" href="../../favicon.ico">
+  </head>
+  <body>
+    <div id=corpus>
+      <header> <a href="../../">home</a> | <a href="../">up </a>  <span style="float:right;"> <button class="btn-toggle-theme">&#9680;</button> </span> <span style="float:right;"> <form id="search"
+    action='../../search/' method="get">
+    <label hidden for="search-input">Search site</label>
+    <input type="text" id="search-input" name="query"
+    placeholder="Type here to search">
+    
+</form>
+ </span>
+<hr style="margin: 1px 0px;">
+<p style="margin: 0px;"><small><sub>objects/envgen~.md
+</sub></small></p> </header>
+      <main>
+<h3>[envgen~]</h3>
+<p style="font-size: 105%"></p>
+  
+
+
+
+
+
+
+  
+
+<div class="object-reference">
+  <hr>
+  <div id="inlets"  class="reference-iolets"><h4>INLETs </h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>float/signal</mark> - gate; on/attack (non-0) or off/release (0)</li>
+  
+  <li><mark>bang</mark> - attacks the envelope with the last gate on value</li>
+  
+  <li><mark>list</mark> - sets and runs envelope (pairs of duration &amp; target. if odd, 1st float is starting point)</li>
+  
+</ul>
+
+<li>2nd</li>
+<ul>
+  
+  <li><mark>list</mark> - sets the envelope and doesn&#39;t run it</li>
+  
+</ul>
+
+</ul></div>
+  <div id="outlets" class="reference-iolets"><h4>OUTLETs</h4><ul>
+<li>1st</li>
+<ul>
+  
+  <li><mark>signal</mark> - envelope signal</li>
+  
+</ul>
+
+<li>2nd</li>
+<ul>
+  
+  <li><mark>float</mark> - status; 1 &lt;on&gt;, 0 &lt;off&gt;</li>
+  
+</ul>
+
+</ul></div>
+  
+
+  
+  <div id="arguments"  class="reference-arguments">
+  <h4>ARGUMENTs</h4>
+  <ol>
+  
+  <li>
+  <mark>list</mark> - &lt;f&gt; — initial output value, &lt;f,f,..&gt; sets the envelope
+  </li>
+  
+  </ol>
+  </div>
+  
+  
+  
+  <div id="flags"  class="reference-flags">
+  <h4>FLAGs</h4> 
+  
+  <li>
+  <mark></mark> - sets function with an extra exponential element for each segment
+  </li>
+  
+  <li>
+  <mark></mark> - default 0
+  </li>
+  
+  <li>
+  <mark></mark> - default 0
+  </li>
+  
+  <li>
+  <mark></mark> - sets to legato mode on, default is off
+  </li>
+  
+  <li>
+  <mark></mark> - default 0  no maxsustain
+  </li>
+  
+  <li>
+  <mark></mark> - default 0
+  </li>
+  
+   </div>
+  
+  
+  
+  <div id="methods"  class="reference-flags">
+  <h4>METHODs</h4> 
+  
+  <li>
+  <mark></mark> - sets the envelope and doesn&#39;t run it
+  </li>
+  
+  <li>
+  <mark></mark> - sets overall gain
+  </li>
+  
+  <li>
+  <mark></mark> - sets envelope with an extra exponential element for each segment
+  </li>
+  
+  <li>
+  <mark></mark> - sets exponential values for each line segment
+  </li>
+  
+  <li>
+  <mark></mark> - sets an exponential for a line segment specified by the first float indexed from 0
+  </li>
+  
+  <li>
+  <mark></mark> - same as bang or gate on
+  </li>
+  
+  <li>
+  <mark></mark> - same as a gate off
+  </li>
+  
+  <li>
+  <mark></mark> - pauses the output
+  </li>
+  
+  <li>
+  <mark></mark> - resumes the envelope after being paused
+  </li>
+  
+  <li>
+  <mark></mark> - sets sustain point
+  </li>
+  
+  <li>
+  <mark></mark> - sets maximum sustain length in ms
+  </li>
+  
+  <li>
+  <mark></mark> - retrigger time in ms
+  </li>
+  
+  <li>
+  <mark></mark> - non-0 sets to legato mode
+  </li>
+  
+   </div>
+  
+
+  </br>
+
+  
+
+  
+  <hr>
+</div>
+
+
+  
+</main>
+      <footer> <footer id="footer">
+  <br>
+  <hr>
+  <nav>
+    made with <a href="https://gohugo.io/" target="_blank">HUGO</a>
+    | hosted at <a href="https://iem.at/" target="_blank">IEM</a>
+  </nav> 
+</footer>
+
+ </footer>
+    </div>
+    <script src="../../js/pd-v0.1.js"></script>	
+  </body>
+</html>
+
