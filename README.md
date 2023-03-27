@@ -1,4 +1,4 @@
-playground for puredata.info on markdown
+Documentation for pd-else
 ========================================
 
 https://pd.iem.sh/
@@ -64,7 +64,6 @@ Please file any issues,... at the canonical repository at https://git.iem.at/pd/
 
 Feel free to open PRs at the github repository.
 Once they are accepted/merged, they will be automatically mirrored to the canonical repository.
-
 
 # LICENSE
 This project is licensed under the BSD-3 license (see [LICENSE.md](./LICENSE.md) for the full text).
